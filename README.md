@@ -78,7 +78,7 @@
 ## Maxen Janko / Seta Holis (6 bosses, 6.19%)
 
 - Zomba (26/04/2024)
-- Grand Mother Foulscale (20/04/2024)May 1
+- Grand Mother Foulscale (20/04/2024)
 - Willi Wasp (16/04/2024)
 - The Old Whopper (14/04/2024)
 - Man in the Cave (14/04/2024)
@@ -93,8 +93,6 @@
 - Hirintror (Nibelor) (13/04/2024)
 
 ## Empe (4 bosses, 4.12%)
-
-May 1
 
 - Sir Valorcrest (29/04/2024)
 - Midnight Panther (29/04/2024)
