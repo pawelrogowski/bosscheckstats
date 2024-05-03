@@ -1,6 +1,6 @@
 # Boss Sightings Apr 9 - May 1 2024
 
-## Sweet Chery Lady (33 bosses)
+## Sweet Chery Lady (34 bosses)
 
 - Fleabringer (-1 North) (03/05/2024)
 - Oodok Witchmaster (01/05/2024)
@@ -8,6 +8,7 @@
 - Grorlam (29/04/2024)
 - Fleabringer (Surface) (29/04/2024)
 - Sir Valorcrest (29/04/2024)
+- Yeti (29/04/2024)
 - Ocyakao (28/04/2024)
 - Grand Mother Foulscale (27/04/2024)
 - Hatebreeder (27/04/2024)
@@ -36,13 +37,12 @@
 - Big Boss Trolliver (09/04/2024)
 - Groam (09/04/2024)
 
-## roydz (Godlike Damage) (25 bosses)
+## roydz (Godlike Damage) (23 bosses)
 
 - Battlemaster Zunzu (East) (03/05/2024)
 - Cublarc the Plunderer (03/05/2024)
 - Tyrn (Drefia) (03/05/2024)
 - Battlemaster Zunzu (West) (02/05/2024)
-- Yeti (29/04/2024)
 - The Blightfather (29/04/2024)
 - Arthom The Hunter (29/04/2024)
 - Arachir the Ancient One (29/04/2024)
@@ -60,7 +60,6 @@
 - Yakchal (12/04/2024)
 - Willi Wasp (11/04/2024)
 - Yeti (10/04/2024)
-- Morshabaal (09/04/2024)
 - Big Boss Trolliver (09/04/2024)
 - Yakchal (09/04/2024)
 
