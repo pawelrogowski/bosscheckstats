@@ -143,11 +143,10 @@
 - White Pale (Edron) (18/04/2024)
 - Hirintror (Nibelor) (13/04/2024)
 
-## Sililleff (3 bosses)
+## Sililleff (2 bosses)
 
 - Shlorg (22/04/2024)
 - Sir Valorcrest (13/04/2024)
-- Morshabaal (09/04/2024)
 
 ## Vatty (1 bosses)
 
