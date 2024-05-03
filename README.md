@@ -1,3 +1,169 @@
+# Boss Sightings April 2024
+
+## Sweet Chery Lady (33 bosses)
+
+- Fleabringer (-1 North) (03/05/2024)
+- Oodok Witchmaster (01/05/2024)
+- Willi Wasp (29/04/2024)
+- Grorlam (29/04/2024)
+- Fleabringer (Surface) (29/04/2024)
+- Sir Valorcrest (29/04/2024)
+- Ocyakao (28/04/2024)
+- Grand Mother Foulscale (27/04/2024)
+- Hatebreeder (27/04/2024)
+- The Evil Eye (26/04/2024)
+- The Pale Count (25/04/2024)
+- Battlemaster Zunzu (East) (25/04/2024)
+- Chizzoron the Distorter (25/04/2024)
+- Zulazza the Corruptor (25/04/2024)
+- Cublarc the Plunderer (25/04/2024)
+- Elvira Hammerthrust (25/04/2024)
+- Hairman the Huge (24/04/2024)
+- White Pale (Liberty Bay) (23/04/2024)
+- Big Boss Trolliver (23/04/2024)
+- Zevelon Duskbringer (22/04/2024)
+- Yaga the Crone (20/04/2024)
+- Rotworm Queen (Ab'Dendriel) (20/04/2024)
+- The Big Bad One (20/04/2024)
+- Big Boss Trolliver (18/04/2024)
+- The Evil Eye (17/04/2024)
+- Xenia (15/04/2024)
+- Groam (15/04/2024)
+- Yaga the Crone (14/04/2024)
+- Rotworm Queen (13/04/2024)
+- Groam (12/04/2024)
+- High Templar Cobrass (10/04/2024)
+- Big Boss Trolliver (09/04/2024)
+- Groam (09/04/2024)
+
+## roydz (Godlike Damage) (25 bosses)
+
+- Battlemaster Zunzu (East) (03/05/2024)
+- Cublarc the Plunderer (03/05/2024)
+- Tyrn (Drefia) (03/05/2024)
+- Battlemaster Zunzu (West) (02/05/2024)
+- Yeti (29/04/2024)
+- The Blightfather (29/04/2024)
+- Arthom The Hunter (29/04/2024)
+- Arachir the Ancient One (29/04/2024)
+- Yakchal (25/04/2024)
+- Omrafir (24/04/2024)
+- The Blightfather (21/04/2024)
+- Dharalion (21/04/2024)
+- Yakchal (21/04/2024)
+- Zomba (18/04/2024)
+- Yakchal (17/04/2024)
+- Gravelord Oshuran (15/04/2024)
+- Zushuka (14/04/2024)
+- Albino Dragon (Farmine) (14/04/2024)
+- The Blightfather (14/04/2024)
+- Yakchal (12/04/2024)
+- Willi Wasp (11/04/2024)
+- Yeti (10/04/2024)
+- Morshabaal (09/04/2024)
+- Big Boss Trolliver (09/04/2024)
+- Yakchal (09/04/2024)
+
+## Empe (5 bosses)
+
+- Big Boss Trolliver (02/05/2024)
+- Sir Valorcrest (29/04/2024)
+- Midnight Panther (29/04/2024)
+- Midnight Panther (25/04/2024)
+- Sir Valorcrest (20/04/2024)
+
+## tesioex (1 bosses)
+
+- The Handmaiden (02/05/2024)
+
+## Toxic Swirus (8 bosses)
+
+- Albino Dragon (Farmine) (01/05/2024)
+- Arthom The Hunter (28/04/2024)
+- Warlord Ruzad (26/04/2024)
+- Willi Wasp (24/04/2024)
+- Rotworm Queen (Darashia) (23/04/2024)
+- Captain Jones (23/04/2024)
+- Oodok Witchmaster (21/04/2024)
+- Morshabaal (21/04/2024)
+
+## Pasztix (6 bosses)
+
+- Smuggler Baron Silvertoe (29/04/2024)
+- Man in the Cave (27/04/2024)
+- Tyrn (Liberty Bay) (27/04/2024)
+- The Welter (16/04/2024)
+- The Big Bad One (11/04/2024)
+- Yakchal (09/04/2024)
+
+## Navariun (1 bosses)
+
+- Zevelon Duskbringer (29/04/2024)
+
+## barnaba (3 bosses)
+
+- Flamecaller Zazrak (Surface) (29/04/2024)
+- The Old Whopper (27/04/2024)
+- Xenia (26/04/2024)
+
+## Vorminthor (1 bosses)
+
+- Albino Dragon (PoI) (26/04/2024)
+
+## Swampy (3 bosses)
+
+- Countess Sorrow (26/04/2024)
+- Albino Dragon (Farmine) (18/04/2024)
+- Midnight Panther (18/04/2024)
+
+## Maxen Janko / Seta Holis (6 bosses)
+
+- Zomba (26/04/2024)
+- Grand Mother Foulscale (20/04/2024)
+- Willi Wasp (16/04/2024)
+- The Old Whopper (14/04/2024)
+- Man in the Cave (14/04/2024)
+- Zomba (10/04/2024)
+
+## Karny Karacz (2 bosses)
+
+- Big Boss Trolliver (26/04/2024)
+- Barbaria (11/04/2024)
+
+## Pure Evil Incarnation (3 bosses)
+
+- Albino Dragon (Ankrahmun) (25/04/2024)
+- Diblis the Fair (20/04/2024)
+- Albino Dragon (Farmine) (11/04/2024)
+
+## Patrycja Sieczko (5 bosses)
+
+- Oodok Witchmaster (24/04/2024)
+- White Pale (Darashia) (19/04/2024)
+- The Voice Of Ruin (Lizard Chosens) (19/04/2024)
+- White Pale (Edron) (18/04/2024)
+- Hirintror (Nibelor) (13/04/2024)
+
+## Sililleff (3 bosses)
+
+- Shlorg (22/04/2024)
+- Sir Valorcrest (13/04/2024)
+- Morshabaal (09/04/2024)
+
+## Vatty (1 bosses)
+
+- Arachir the Ancient One (22/04/2024)
+
+## Castelan Hero (3 bosses)
+
+- Grorlam (18/04/2024)
+- Smuggler Baron Silvertoe (18/04/2024)
+- The Handmaiden (16/04/2024)
+
+
+
+# Check # by boss
+
 ### Fleabringer
 - Sweet Chery Lady: 582
 - Pasztix: 89
