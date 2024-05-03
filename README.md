@@ -75,7 +75,7 @@
 
 - The Handmaiden (02/05/2024)
 
-## Toxic Swirus (8 bosses)
+## Toxic Swirus (7 bosses)
 
 - Albino Dragon (Farmine) (01/05/2024)
 - Arthom The Hunter (28/04/2024)
@@ -84,7 +84,6 @@
 - Rotworm Queen (Darashia) (23/04/2024)
 - Captain Jones (23/04/2024)
 - Oodok Witchmaster (21/04/2024)
-- Morshabaal (21/04/2024)
 
 ## Pasztix (6 bosses)
 
